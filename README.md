@@ -5,4 +5,9 @@ test meteori
 
 This project requires Python3 and requests pcgs
 
-'python3 find_meteors.py'
+First, isntall ppenv, Then:
+
+'''
+pipenv install
+pipenv run "python find_meteors.py"
+'''
