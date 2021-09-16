@@ -1,5 +1,5 @@
 # test-meteori
-test meteori
+tst meteori 
 
 # Running
 
